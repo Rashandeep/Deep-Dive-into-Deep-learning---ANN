@@ -6,7 +6,7 @@
 
 ## Table of Contents
 - [Project Statement](#problem-statement)
-- [Submission Guidelines](#Submission Guidelines)
+- [Submission Guidelines](#Submission-Guidelines)
 - [References](#references)
 
 
@@ -19,7 +19,7 @@ You are requested to apply Artificial Neural Network to any of the given dataset
 The details of the prediction 
 Please write your Name and Email in the first cell of your notebook. 
 
-## Submission Guidelines
+## Submission-Guidelines
 [BACK TO TOP](#table-of-contents)
 - FORK THE REPOSITORY
 - OPEN THE **EVENT SUBMISSION** FOLDER (IN YOUR FORKED REPO)
