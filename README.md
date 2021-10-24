@@ -7,19 +7,20 @@
 ## Table of Contents
 - [Project Statement](#problem-statement)
 - [Submission Guidelines](#Submission-Guidelines)
-- [References](#references)
+- [References](#References)
+- [Presenters](#Event-Presenters)
 
 
 <!-- Project Breakdown -->
 ## Problem Statement
-[BACK TO TOP](#table-of-contents)
+[BACK TO TOP](#table-of-contents)<br>
 You are provided two basic datasets for this task. 
 You are requested to apply Artificial Neural Network to any of the given datasets.
 The details of the prediction 
 Please write your Name and Email in the first cell of your notebook. 
 
 ## Submission-Guidelines
-[BACK TO TOP](#table-of-contents)
+[BACK TO TOP](#table-of-contents)<br>
 - FORK THE REPOSITORY
 - OPEN THE **EVENT SUBMISSION** FOLDER (IN YOUR FORKED REPO)
 - PUSH/UPLOAD A THE TASK FILE **WITH YOUR NAME-EMAILID (ex. INDERPREET_SINGH-inderpreet221099@gmail.com) AS YOUR FILENAME**
@@ -36,9 +37,7 @@ Please write your Name and Email in the first cell of your notebook.
 - https://www.kaggle.com/
 
 
-## EVENT PRESENTERS
-
-## DEVELOPERS
+## Event-Presenters
 <hr>
 <!-- Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)): -->
 
